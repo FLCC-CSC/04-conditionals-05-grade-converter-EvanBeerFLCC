@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Evan Beer
+# DATE: 3/6/26
+# BRIEF DESCRIPTION: Takes in a user inputted numerical grade and converts it to a letter grade.  
 
 
 
@@ -13,7 +13,7 @@
 
 
 
-########## ENTER YER CODE BELOW THIS LINE ##########
+########## ENTER YOUR CODE BELOW THIS LINE ##########
 
 print('===== Grade Converter =====')
 
@@ -32,7 +32,7 @@ elif percent >= 65:
 else:
     print('F')
 
-########### END YER CODE ABOVE THIS LINE ###########
+########### END YOUR CODE ABOVE THIS LINE ###########
 
     
 
@@ -85,7 +85,7 @@ D
 1. What is something you would tell a future student to be careful about when
    doing this lab?
 
-
+Make sure to get the numbers right.
 
 
 
